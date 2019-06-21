@@ -8,6 +8,9 @@
 * [UserAppointmentForm.ascx.cs](./CS/WebSite/MyForms/UserAppointmentForm.ascx.cs) (VB: [UserAppointmentForm.ascx.vb](./VB/WebSite/MyForms/UserAppointmentForm.ascx.vb))
 <!-- default file list end -->
 # How to modify the appointment editing form for working with custom fields - step by step guide
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1074/)**
+<!-- run online end -->
 
 
 <p>This example illustrates a technique used to customize an appointment editing form to show custom fields.</p>
